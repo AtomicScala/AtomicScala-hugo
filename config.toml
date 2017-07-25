@@ -1,5 +1,4 @@
-baseURL = "http://cumbredeliderazgo.do/atomicscala.github.io/docs/"
+baseURL = "atomicscala.github.io/"
 languageCode = "en-us"
 title = "Atomic Scala: Learn Programming in a Language of the future."
 theme = "atomic"
-publishDir = "docs"
