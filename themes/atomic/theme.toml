@@ -11,8 +11,8 @@ features = []
 min_version = "0.25"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Codetiger SRL"
+  homepage = "www.codetiger.co"
 
 # If porting an existing theme
 [original]

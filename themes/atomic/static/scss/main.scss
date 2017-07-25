@@ -17,6 +17,7 @@ $bold: 600;
 /// 12 columns grid
 $main-color: #CF0000;
 $header-color: #4d5a71;
+$copy-color: #9B9B9B;
 
 
 body  {
@@ -134,7 +135,7 @@ div.features {
     }
 
     p {
-      color: #9B9B9B;
+      color: $copy-color;
       font-size: 20px;
       font-weight: 200;
       margin-top: 8px;
@@ -186,9 +187,15 @@ div.features {
   h3 {
     margin-top: 0;
     margin-bottom: 8px;
+    color: $copy-color;
+    font-size: 24px;
   }
+
   h4 {
     margin-top: 8px;
+    color: $copy-color;
+    font-size: 24px;
+    font-style: italic;
   }
 
   .slideshow {
@@ -226,6 +233,8 @@ div.features {
 
     blockquote {
       font-style: normal;
+      font-weight: $light;
+      font-size: 24px;
     }
 
     .slick-dots li {
@@ -239,7 +248,7 @@ div.features {
 
     .slick-dots li button:before {
       font-size: 16px;
-      color: #9B9B9B;
+      color: #C40B00;
     }
   }
 
@@ -298,7 +307,7 @@ footer {
   p {
     padding-left: 40px;
     padding-right: 40px;
-    color: #9B9B9B;
+    color: $copy-color;
     font-size: 20px;
     font-weight: $light;
   }

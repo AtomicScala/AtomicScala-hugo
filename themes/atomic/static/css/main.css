@@ -8098,9 +8098,14 @@ div.features .feature {
     color: #4d5a71; }
   #endorsments h3 {
     margin-top: 0;
-    margin-bottom: 8px; }
+    margin-bottom: 8px;
+    color: #9B9B9B;
+    font-size: 24px; }
   #endorsments h4 {
-    margin-top: 8px; }
+    margin-top: 8px;
+    color: #9B9B9B;
+    font-size: 24px;
+    font-style: italic; }
   #endorsments .slideshow {
     max-height: 450px;
     max-width: 1028px;
@@ -8134,13 +8139,15 @@ div.features .feature {
       right: -18px;
       bottom: -58px; }
     #endorsments .slideshow blockquote {
-      font-style: normal; }
+      font-style: normal;
+      font-weight: 200;
+      font-size: 24px; }
     #endorsments .slideshow .slick-dots li {
       margin-left: 6px;
       margin-right: 6px; }
     #endorsments .slideshow .slick-dots li button:before {
       font-size: 16px;
-      color: #9B9B9B; }
+      color: #C40B00; }
 
 .authors {
   background-color: #F7F7F7; }
