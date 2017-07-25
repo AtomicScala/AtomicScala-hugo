@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atomic Scala: Code in a Language from the future.</title>
+    <link>http://www.atomicscala.com/</link>
+    <description>Recent content on Atomic Scala: Code in a Language from the future.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.atomicscala.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
