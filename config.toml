@@ -1,0 +1,4 @@
+baseURL = "http://www.atomicscala.com/"
+languageCode = "en-us"
+title = "Atomic Scala: Code in a Language from the future."
+theme = "atomic"
