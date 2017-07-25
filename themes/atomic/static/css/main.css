@@ -8008,10 +8008,7 @@ h1 {
   background-size: 900px 630px, cover;
   background-repeat: no-repeat; }
   .cover-container .uk-icon {
-    color: white;
-    position: relative;
-    top: 20px;
-    right: 20px; }
+    color: white; }
   .cover-container .tm-navbar ul li a {
     color: white; }
   .cover-container > img {
