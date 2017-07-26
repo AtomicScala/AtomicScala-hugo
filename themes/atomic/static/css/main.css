@@ -8020,7 +8020,7 @@ h1 {
     padding: 24px 60px 24px 24px; }
     .cover-container div.uk-position-center h1 {
       color: white; }
-      .cover-container div.uk-position-center h1 b {
+      .cover-container div.uk-position-center h1 strong {
         display: block;
         font-weight: 200;
         font-size: 24px;
@@ -8222,7 +8222,7 @@ footer {
       display: block;
       max-width: initial;
       position: initial !important; }
-      .cover-container div.uk-position-center h1 b {
+      .cover-container div.uk-position-center h1 strong {
         display: inline !important; }
       .cover-container div.uk-position-center p {
         font-size: 26px; }
