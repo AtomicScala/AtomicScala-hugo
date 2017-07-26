@@ -8207,8 +8207,6 @@ footer {
       -ms-flex-pack: justify;
           justify-content: space-between;
       height: 100%;
-      position: absolute;
-      z-index: 3;
       top: 1px;
       width: 100%; }
       .cover-container div.cover-content img {
