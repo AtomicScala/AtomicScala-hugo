@@ -8208,7 +8208,8 @@ footer {
           justify-content: space-between;
       height: 100%;
       top: 1px;
-      width: 100%; }
+      width: 100%;
+      position: absolute; }
       .cover-container div.cover-content img {
         display: block;
         float: left; }
@@ -8266,13 +8267,13 @@ footer {
         display: none; }
       .book-sample-container .book-sample-content img.image-medium {
         display: block; }
-  .slideshow:after {
-    right: -60px;
-    bottom: -36px; }
   #endorsments {
     margin-bottom: 80px; }
     #endorsments .slideshow {
       max-height: 272px; }
+      #endorsments .slideshow:after {
+        right: -60px;
+        bottom: -36px; }
   .authors {
     padding-bottom: 48px; }
     .authors h1 {
@@ -8286,7 +8287,8 @@ footer {
       .authors .author img {
         width: 296px;
         height: 296px;
-        margin-right: 40px; }
+        margin-right: 40px;
+        background-color: white; }
       .authors .author .author-info {
         text-align: left;
         margin-left: initial;

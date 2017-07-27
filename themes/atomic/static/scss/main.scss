@@ -328,9 +328,9 @@ footer {
       display: flex;
       justify-content: space-between;
       height: 100%;
-      
       top: 1px;
       width: 100%;
+      position: absolute;
 
       img {
         display: block;
@@ -430,19 +430,18 @@ footer {
   }
 
 
-  .slideshow {
-    &:after{
-      right: -60px;
-      bottom: -36px;
-    }
-  }
+
 
   #endorsments {
     margin-bottom: 80px;
 
-
     .slideshow {
       max-height: 272px;
+
+      &:after{
+        right: -60px;
+        bottom: -36px;
+      }
     }
   }
 
@@ -462,6 +461,7 @@ footer {
         width: 296px;
         height: 296px;
         margin-right: 40px;
+        background-color: white;
 
       }
       .author-info {
